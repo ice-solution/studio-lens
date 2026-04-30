@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://photoinv.ice-solution.hk/sitemap.xml
