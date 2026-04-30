@@ -21,21 +21,6 @@ function Page() {
         <ContactForm />
       </main>
       <footer className="site-footer">
-        <p>
-          設計靈感參考：
-          <a href="https://wwtba.webflow.io/" target="_blank" rel="noreferrer">
-            WWTBA
-          </a>
-          、
-          <a href="https://pitch-rebuild.webflow.io/" target="_blank" rel="noreferrer">
-            Pitch Rebuild
-          </a>
-          、
-          <a href="https://appsrow-pricing-table.webflow.io/" target="_blank" rel="noreferrer">
-            Pricing Table
-          </a>
-          （教育／示範用途）
-        </p>
       </footer>
     </>
   )

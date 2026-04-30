@@ -85,7 +85,7 @@ export function HeroGame({ controller }: { controller: ScrollMagicController | n
 
         <p className="hero-game__sub">
           靈感來自經典問答節目氛圍，用輕鬆遊戲感帶你認識我哋嘅影樓服務。
-          <span className="hero-game__note">（教育／示範用途設計）</span>
+          
         </p>
 
         <div className="hero-game__actions">
